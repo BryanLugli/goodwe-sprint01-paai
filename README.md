@@ -58,19 +58,20 @@ Essas tecnologias permitem criar um chatbot inteligente, escalável e fácil de 
 4. IA gera resposta
 5. Resposta é enviada ao usuário
 
----
+
 
 ## 🧪 Testes
 
 [Ver testes](docs/testes.md)
 
 
-## Fluxograma do Chatbot
-
-![Fluxograma](documentos/fluxograma.png)
-
----
 
 ## ⚙️ System Prompt
 
 [Ver system prompt](docs/system_prompt.txt)
+
+
+
+## Fluxograma do Chatbot
+
+[Ver Fluxograma](docs/Fluxograma-IA.drawio.pdf)
