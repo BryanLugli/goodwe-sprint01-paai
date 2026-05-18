@@ -1,4 +1,4 @@
-# 🧪 Modelo de Teste do Chatbot
+#  Modelo de Teste do Chatbot
 
 ## Pergunta 1
 Quanto cada morador consumiu este mês?
